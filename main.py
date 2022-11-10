@@ -1,4 +1,4 @@
-import get_biggest
+import reverse_2_times
 if __name__ == '__main__':
-    get_biggest
+    reverse_2_times
 
