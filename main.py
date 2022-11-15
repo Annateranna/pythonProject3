@@ -1,4 +1,4 @@
-import reverse_2_times
+import translate
 if __name__ == '__main__':
-    reverse_2_times
+    translate
 
