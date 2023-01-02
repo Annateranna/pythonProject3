@@ -14,7 +14,7 @@ class TestReverse(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 '''
-import hurracane
+import htmlastext
 
 if __name__ == '__main__':
-    hurracane
+    htmlastext
