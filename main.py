@@ -14,7 +14,7 @@ class TestReverse(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 '''
-import htmlastext
+import BS4_sums
 
 if __name__ == '__main__':
-    htmlastext
+    BS4_sums
